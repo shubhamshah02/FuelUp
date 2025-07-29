@@ -5,7 +5,7 @@ Thanks for using FuelUp: Gas Prices!
 ## 🔧 Support
 If you're experiencing any issues, have feedback, or feature requests, feel free to reach out.
 
-- Email: [shubham.shahh23@gmail.com]
+- Email: shubham.shahh23@gmail.com
 - GitHub Issues: [https://github.com/shubhamshah02/FuelUp/issues](https://github.com/shubhamshah02/FuelUp/issues)
 
 ## 📱 About the App
